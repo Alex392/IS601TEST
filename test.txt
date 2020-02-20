@@ -1,2 +1,4 @@
-For this mini-project, you need to find at least one partner to make a team of 2-3 people. In this group, you need to create a single repository and elect one person to merge pull requests as the team leader. You must have at least 10
+For this mini-project, you need to find at least one partner to make a team of 2-3 people. 
+In this group, you need to create a single repository and elect one person to merge pull requests as
+ the team leader. You must have at least 10
 Hello World this is my text oginal text do not steal.!!!!
